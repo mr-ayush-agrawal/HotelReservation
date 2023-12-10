@@ -14,6 +14,7 @@ There are Some assumption made while working with this dataset for solving the g
 1. Hotels are not hosting any guests in the rooms that are cancelled.
 1. There are no negative effect form the solution.
 1. The main factor affecting the business is the cancellation.
+1. Extream outliares are not taken in account
 
 
 ## Research Questions 
