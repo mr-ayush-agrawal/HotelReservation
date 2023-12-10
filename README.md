@@ -1,7 +1,10 @@
 # :hotel: Hotel Booking Cancelation
 This is a real world dataset. Performing this Analysis to provide the solution for the given problem statement.
 
-**Source :** The data is from [Kaggle](https://www.kaggle.com/datasets/mojtaba142/hotel-booking/data). 
+
+**Reference Video :** This is a guided project made while learning Data Analysing. The reference is taken from [this video](https://www.youtube.com/watch?v=obJZ1rB7TKc).
+
+**Data Source :** The data is from [Kaggle](https://www.kaggle.com/datasets/mojtaba142/hotel-booking/data). 
 
 **Assumption :** Data is old so this is assumed that this data is sufficient for getting the exact result.
 
